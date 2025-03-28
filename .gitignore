@@ -1,6 +1,6 @@
 client.cpp
 client.exe
-sever.cpp
+server.cpp
 server.exe
 test.mp4
 test2.mp4
